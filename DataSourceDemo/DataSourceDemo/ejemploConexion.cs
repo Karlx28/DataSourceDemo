@@ -25,6 +25,14 @@ namespace DataSourceDemo
 
         }
 
+        private void customersBindingNavigatorSaveItem_Click_1(object sender, EventArgs e)
+        {
+            this.Validate();
+            this.customersBindingSource.EndEdit();
+            this.tableAdapterManager.UpdateAll(this.northwindDataSet);
+
+        }
+
         private void ejemploConexion_Load(object sender, EventArgs e)
         {
             // TODO: esta línea de código carga datos en la tabla 'northwindDataSet.Customers' Puede moverla o quitarla según sea necesario.
@@ -32,12 +40,30 @@ namespace DataSourceDemo
 
         }
 
-        private void toolStripTextBox1_Click(object sender, EventArgs e)
+        private void button1_Click(object sender, EventArgs e)
         {
-
+            // llamamos al customerBindingSource y el metodo que queremos ejecutar
+            customersBindingSource.AddNew();
         }
 
-        private void toolStripLabel1_Click(object sender, EventArgs e)
+        private void cajaTextoID_KeyPress(object sender, KeyPressEventArgs e)
+        {
+            if (e.KeyChar == (char)13)
+            {
+                var index = customersBindingSource.Find("customerID", cajaTextoID);
+                if (index > -1)
+                {
+                    customersBindingSource.Position = index;
+                    return;
+                }
+                else
+                {
+                    MessageBox.Show("Elemento no encontrado");
+                }
+            };
+        }
+
+        private void customerIDTextBox_TextChanged(object sender, EventArgs e)
         {
 
         }
