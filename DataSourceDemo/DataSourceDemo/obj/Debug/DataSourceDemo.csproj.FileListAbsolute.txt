@@ -1,0 +1,12 @@
+C:\Users\ALUMNO\Downloads\GuiasLab\DataSourceDemo\DataSourceDemo\bin\Debug\DataSourceDemo.exe.config
+C:\Users\ALUMNO\Downloads\GuiasLab\DataSourceDemo\DataSourceDemo\bin\Debug\DataSourceDemo.exe
+C:\Users\ALUMNO\Downloads\GuiasLab\DataSourceDemo\DataSourceDemo\bin\Debug\DataSourceDemo.pdb
+C:\Users\ALUMNO\Downloads\GuiasLab\DataSourceDemo\DataSourceDemo\obj\Debug\DataSourceDemo.csproj.AssemblyReference.cache
+C:\Users\ALUMNO\Downloads\GuiasLab\DataSourceDemo\DataSourceDemo\obj\Debug\DataSourceDemo.csproj.SuggestedBindingRedirects.cache
+C:\Users\ALUMNO\Downloads\GuiasLab\DataSourceDemo\DataSourceDemo\obj\Debug\DataSourceDemo.Form1.resources
+C:\Users\ALUMNO\Downloads\GuiasLab\DataSourceDemo\DataSourceDemo\obj\Debug\DataSourceDemo.Properties.Resources.resources
+C:\Users\ALUMNO\Downloads\GuiasLab\DataSourceDemo\DataSourceDemo\obj\Debug\DataSourceDemo.csproj.GenerateResource.cache
+C:\Users\ALUMNO\Downloads\GuiasLab\DataSourceDemo\DataSourceDemo\obj\Debug\DataSourceDemo.csproj.CoreCompileInputs.cache
+C:\Users\ALUMNO\Downloads\GuiasLab\DataSourceDemo\DataSourceDemo\obj\Debug\DataSourceDemo.exe
+C:\Users\ALUMNO\Downloads\GuiasLab\DataSourceDemo\DataSourceDemo\obj\Debug\DataSourceDemo.pdb
+C:\Users\ALUMNO\Downloads\GuiasLab\DataSourceDemo\DataSourceDemo\obj\Debug\DataSourceDemo.ejemploConexion.resources

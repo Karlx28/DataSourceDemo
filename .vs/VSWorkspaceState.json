@@ -1,7 +1,9 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\DataSourceDemo",
+    "\\DataSourceDemo\\DataSourceDemo"
   ],
-  "SelectedNode": "\\C:\\Users\\ALUMNO\\Downloads\\GuiasLab",
+  "SelectedNode": "\\DataSourceDemo\\DataSourceDemo.sln",
   "PreviewInSolutionExplorer": false
 }
